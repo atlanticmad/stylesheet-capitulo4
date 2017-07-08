@@ -1,0 +1,9 @@
+body {
+  background:url(../Img/Fondo.jpg)no-repeat fixed center center #333;
+  background-size:cover;
+}
+
+p strong em
+{
+  color:green;
+}
